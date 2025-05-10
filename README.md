@@ -34,10 +34,7 @@ Before you get started, make sure you have the following prerequisites in place:
 - [Database Tier](#-database-tier)
 - [Terraform Configuration](#-terraform-configuration)
 - [Deployment](#-deployment)
-- [Usage](#-usage)
-- [Contributing](#-contributing)
-- [License](#-license)
-
+  
 ## ✨ Features
 
 - **High Availability**: The architecture is designed for fault tolerance and redundancy.
@@ -107,8 +104,8 @@ Follow these steps to deploy the architecture:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/mathesh-me/multi-tier-architecture-using-terraform.git
+   ```bash[
+   git clone https://github.com/Swpneillk23/Multi-tier-architecture-using-terraform.git
    ```
 
 2. Make changes as per your needs.
@@ -129,8 +126,4 @@ Follow these steps to deploy the architecture:
 ### Security Considerations
 - Review and customize the security groups and network ACLs to meet your specific security requirements.
 
-## 🤝 Contributing
-Contributions are Welcome! Please read my Contributing Guidelines to get started with contributing to this project.
 
-## 📄 License
-This project is licensed under the MIT License.
